@@ -9,12 +9,12 @@ This project provides an in-depth analysis of the election results, focusing on 
 - Analysis of voting margins
 
 ## Image
-![Election Analysis](Background.jpg)
+![Election Analysis](https://github.com/iAtharva26/Election-Analysis/blob/main/img/Background.jpg)
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/username/election-analysis.git`
-2. Open the Power BI file: `election-analysis.pbix`
+1. Clone the repository: `git clone https://github.com/iAtharva26/Election-Analysis.git`
+2. Open the Power BI file: `Election Analysis.pbix`
 3. Explore the data and visualizations
 
 ## Libraries and Tools
@@ -24,8 +24,8 @@ This project provides an in-depth analysis of the election results, focusing on 
 
 ## Data Sources
 
-- [TSE](https://dadosabertos.tse.jus.br/) (Brazilian Superior Electoral Court)
+- Kaggle
 
 ## Contact
 
-For any questions or inquiries, contact [Renuka](mailto:renuka@example.com).
+For any questions or inquiries, contact [Atharva](mailto:iatharva26@gmail.com).
