@@ -20,7 +20,6 @@ This project provides an in-depth analysis of the election results, focusing on 
 ## Libraries and Tools
 
 - Power BI
-- Python (for data acquisition)
 
 ## Data Sources
 
